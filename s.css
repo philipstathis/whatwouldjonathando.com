@@ -2,7 +2,6 @@
 h1 {
     font-size: 400%;
     margin-top: 24%;
-    margin-left: 20%;
 }
 
 a {
@@ -25,7 +24,7 @@ div {
 }
 
 .almost {
-    margin-left: 20%;
+    text-align: center;
     color: lightpink;
 }
 .missed {
