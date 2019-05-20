@@ -13,7 +13,8 @@ const quotes = [
   'Be ready for pain',
   'Think of it as a code opportunity',
   'Hang out with his best friend Beyonce',
-  'Fridge handle'
+  'Fridge handle',
+  'Never wear an undershirt'
 ];
 
 export default function getQuote() {
